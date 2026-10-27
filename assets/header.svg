@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Pema Lama — Build with purpose.</title>
+  <desc id="desc">A dark editorial banner with mint typography and a geometric code motif. Full-stack, mobile, and open source.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#23312F" stroke-opacity=".5"/></pattern>
+    <linearGradient id="glow" x1="860" y1="0" x2="1240" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#142B26"/><stop offset="1" stop-color="#0D1715"/></linearGradient>
+    <clipPath id="clip"><rect width="1280" height="420" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="420" fill="#0D1715"/>
+    <rect x="800" width="480" height="420" fill="url(#glow)"/>
+    <rect x="800" width="480" height="420" fill="url(#grid)"/>
+    <path d="M800 0V420" stroke="#2B3C36"/>
+    <circle cx="1050" cy="210" r="145" stroke="#35554A"/>
+    <circle cx="1050" cy="210" r="108" stroke="#35554A" stroke-dasharray="3 9"/>
+    <path d="M870 210H1230M1050 30V390" stroke="#35554A"/>
+    <path d="M932 80L1168 340M932 340L1168 80" stroke="#35554A" stroke-opacity=".5"/>
+    <rect x="952" y="112" width="196" height="196" rx="32" fill="#13241E" stroke="#496D5D" transform="rotate(-8 1050 210)"/>
+    <rect x="973" y="133" width="154" height="154" rx="22" fill="#B9F5CB"/>
+    <path d="M1025 183L999 210L1025 237M1075 183L1101 210L1075 237M1061 176L1039 244" stroke="#153526" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1050" cy="65" r="6" fill="#B9F5CB"/>
+    <circle cx="1195" cy="210" r="5" fill="#B9F5CB"/>
+    <circle cx="905" cy="210" r="4" fill="#718F7E"/>
+    <path d="M1193 72V92M1183 82H1203M890 335V351M882 343H898" stroke="#B9F5CB" stroke-width="2"/>
+    <rect x="56" y="48" width="7" height="7" rx="1" fill="#B9F5CB"/>
+    <text x="78" y="57" fill="#D3E1D7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3">PEMA LAMA</text>
+    <text x="56" y="166" fill="#F1F5EB" font-family="Arial, Helvetica, sans-serif" font-size="75" font-weight="700" letter-spacing="-3">Build with</text>
+    <text x="56" y="250" fill="#B9F5CB" font-family="Arial, Helvetica, sans-serif" font-size="83" font-weight="700" letter-spacing="-3">purpose.</text>
+    <text x="60" y="301" fill="#A6BCAF" font-family="Arial, Helvetica, sans-serif" font-size="21">Thoughtful apps. Useful tools. Shared progress.</text>
+    <path d="M58 343H742" stroke="#2B3C36"/>
+    <text x="58" y="377" fill="#D3E1D7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">FULL-STACK / MOBILE / OPEN SOURCE</text>
+    <text x="935" y="379" fill="#8DAD9B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">@PEMALAMA12</text>
+  </g>
+</svg>
